@@ -27,7 +27,7 @@
     "vuex": "^3.6.2"
   },
   "devDependencies": {
-    "@intlify/unplugin-vue-i18n": "^6.0.0",
+    "@intlify/unplugin-vue-i18n": "^6.0.3",
     "@intlify/vue-i18n-loader": "^1.1.0",
     "@mdi/js": "^5.9.55",
     "@types/jest": "^24.9.1",
